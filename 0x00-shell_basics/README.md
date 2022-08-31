@@ -7,3 +7,4 @@ Script 5-listfilesdigitonly, display current directory contents (including files
 Script 6-firstdirectory, creates a file in another directory
 Script 7-movethatfile, moves a file
 Script 8-firstdelete, deletes a file
+Script 9-firstdirdeletion, deletes a directory
