@@ -9,3 +9,4 @@ Script 7-movethatfile, moves a file
 Script 8-firstdelete, deletes a file
 Script 9-firstdirdeletion, deletes a directory
 Script 10-back, nav a directory
+Script 11-lists, list a directory
