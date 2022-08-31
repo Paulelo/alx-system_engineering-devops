@@ -6,3 +6,4 @@ Script 4-listmorefiles, display current directory contents (including files star
 Script 5-listfilesdigitonly, display current directory contents (including files starting with .)in a long format and in numeric order
 Script 6-firstdirectory, creates a file in another directory
 Script 7-movethatfile, moves a file
+Script 8-firstdelete, deletes a file
