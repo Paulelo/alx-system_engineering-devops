@@ -11,3 +11,4 @@ Script 9-firstdirdeletion, deletes a directory
 Script 10-back, nav a directory
 Script 11-lists, list a directory
 Script 12-file_type, prints file type
+Script 13-symbolic_link, creates symbolic link to a file
