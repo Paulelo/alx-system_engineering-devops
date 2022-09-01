@@ -13,3 +13,4 @@ Script 11-lists, list a directory
 Script 12-file_type, prints file type
 Script 13-symbolic_link, creates symbolic link to a file
 Script 14-copy_html, copy html file
+Script 100-lets_move, uses wildcard to chmod u+x 100-lets_move files
