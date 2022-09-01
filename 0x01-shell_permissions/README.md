@@ -14,3 +14,4 @@ Script 8-James_Bond, gives group and  owner no permission and  other users all p
 Script 9-John_Doe, grants certain permissions to file hello
 Script 10-mirror_permissions, mirror permissions from a file to file hello
 Script 12-directory_permissions, creates a directory and specify the permission 
+Script 13-change_group, changes the group ownership of file hello to school
