@@ -12,3 +12,4 @@ Script 7-everybody, gives group owner and other users of file hello executing ri
 Script 7-everybody, gives group owner and other users of file hello executing right
 Script 8-James_Bond, gives group and  owner no permission and  other users all permission of file hello executing right
 Script 9-John_Doe, grants certain permissions to file hello
+Script 10-mirror_permissions, mirror permissions from a file to file hello
