@@ -20,3 +20,4 @@ Script 100-change_owner_and_group, changes the group ownership of current workin
 Script 100-change_owner_and_group, changes the group ownership of current working directory
 Script 101-symbolic_link_permissions, changes the group ownership of file _hello
 Script 101-symbolic_link_permissions, changes the group ownership of file _hello
+Script 101-symbolic_link_permissions, changes the group ownership of file _hello
