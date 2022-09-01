@@ -9,3 +9,4 @@ Script 5-execute, gives owner of file hello executing right
 Script 6-multiple_permissions, gives group owner of file hello executing right
 Script 6-multiple_permissions, gives group owner of file hello executing right
 Script 7-everybody, gives group owner and other users of file hello executing right
+Script 7-everybody, gives group owner and other users of file hello executing right
