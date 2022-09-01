@@ -7,3 +7,4 @@ Script 4-empty, creates an empty file named hello
 Script 5-execute, gives owner of file hello executing right
 Script 5-execute, gives owner of file hello executing right
 Script 6-multiple_permissions, gives group owner of file hello executing right
+Script 6-multiple_permissions, gives group owner of file hello executing right
