@@ -9,3 +9,4 @@ Script 8-cwd_state, prints the last ten lines of /etc/passwd file Script 8-cwd_s
 Script 10-no_more_js, deletes all regular file ending in .js
 Script 10-no_more_js, deletes all regular file ending in .js
 Script 10-no_more_js, deletes all regular file ending in .js Script 10-no_more_js, deletes all regular file ending in .js
+Script 6-third_line, reads first 3 lines Script 6-third_line, reads first 3 lines
