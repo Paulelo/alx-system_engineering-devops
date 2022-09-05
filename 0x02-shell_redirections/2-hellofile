@@ -1,0 +1,2 @@
+Script 2-hellofile, prints the content of /etc/passwd file #!/bin/bash
+cat /etc/passwd
