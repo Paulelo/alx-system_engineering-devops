@@ -14,3 +14,4 @@ Script 9-duplicate_last_line, reads first 3 lines Script 9-duplicate_last_line, 
 Script 11-directories, reads number of directories in cwd
 Script 12-newest_files, prints the 10 newest line
 Script 13-unique, prints words that appears only once in a file
+Script 14-findthatword, prints lines that contain root in a file
