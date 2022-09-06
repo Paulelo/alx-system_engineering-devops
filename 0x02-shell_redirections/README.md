@@ -23,3 +23,4 @@ Script 19-AZ, replaces certain letters in a input
 Script 20-hiago, replaces all letter C and c
 Script 20-hiago, replaces all letter C and c
 Script 21-reverse, reverse its input
+Script 22-users_and_homes, displays all users and their home directories
