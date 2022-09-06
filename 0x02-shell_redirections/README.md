@@ -18,3 +18,4 @@ Script 14-findthatword, prints lines that contain root in a file
 Script 15-countthatword, prints lines that contain pattern bin
 Script 16-whatsnext, prints lines that contain root and next 3 lines
 Script 17-hidethisword, prints lines that does not contain "bin"
+Script 18-letteronly, prints lines that starts with a letter
