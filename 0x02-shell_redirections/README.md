@@ -12,3 +12,4 @@ Script 10-no_more_js, deletes all regular file ending in .js Script 10-no_more_j
 Script 6-third_line, reads first 3 lines Script 6-third_line, reads first 3 lines
 Script 9-duplicate_last_line, reads first 3 lines Script 9-duplicate_last_line, reads first 3 lines
 Script 11-directories, reads number of directories in cwd
+Script 12-newest_files, prints the 10 newest line
