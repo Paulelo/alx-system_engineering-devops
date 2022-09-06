@@ -27,3 +27,4 @@ Script 22-users_and_homes, displays all users and their home directories
 Script 100-empty_casks, displays all files in cwd
 Script 101-gifs, displays all files in cwd with .gif
 Script 102-acrostic, decodes acrostics that use the first letter of each line
+Script 103-the_biggest_fan, parses web log in TVS format
