@@ -14,3 +14,4 @@ Script 13-print_float, prints a number with two decimal places
 Script 11-binary_to_decimal, converts a number from binary to decimal
 Script 100-decimal_to_hexadecimal, converts a number from base 10 to base 16
 Script 101-rot13, encodes and decodes text using the rot13 encryption. Assume ASCII
+Script 102-odd, prints every other line from the input, starting with the first line
