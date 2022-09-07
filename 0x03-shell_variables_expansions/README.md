@@ -10,3 +10,4 @@ Script 8-true_knowledge, creates a variable with a stored addition value
 Script 9-divide_and_rule, creates a variable with a stored exponential value
 Script 10-love_exponent_breath, displays result of exponential operation
 Script 12-combinations, prints all possible combinations of two letters
+Script 13-print_float, prints a number with two decimal places
