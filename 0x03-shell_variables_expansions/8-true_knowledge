@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE="echo $((100+20+8))"
+echo $((128+TRUEKNOWLEDGE))
