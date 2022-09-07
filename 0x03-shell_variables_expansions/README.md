@@ -7,3 +7,4 @@ Script 5-local_variables, prints a list of all the available environment and loc
 Script 6-create_local_variable, creates a local variable
 Script 7-create_global_variable, creates a global variable
 Script 8-true_knowledge, creates a variable with a stored addition value
+Script 9-divide_and_rule, creates a variable with a stored exponential value
